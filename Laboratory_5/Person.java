@@ -1,3 +1,5 @@
+package Laboratory_5;
+
 import java.awt.desktop.ScreenSleepEvent;
 
 public class Person {

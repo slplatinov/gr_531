@@ -1,6 +1,6 @@
-import java.util.Arrays;
+package Laboratory_5;
 
-public class L5ex1 {
+public class lab5_1 {
     public static void main(String[] args) {
         Person person1 = new Person("King Lion",20);
         Person person2 = new Person("Smoll Boy",10);
